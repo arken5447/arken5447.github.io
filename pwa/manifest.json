@@ -1,5 +1,6 @@
 {
-  "name": "這是一個完整名稱", 
+"short_name": "測試PWA",
+  "name": "測試PWA", 
   "icons": [
         {
             "src": "144x144.png",
@@ -8,5 +9,8 @@
         }
     ],
   "display": "standalone",
-  "start_url": "index.html"
+  "start_url": "index.html",
+  "theme_color": "red",
+  "background_color": "#2196f3"
+  
 }
